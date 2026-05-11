@@ -26,6 +26,11 @@ LayerTechnologyFrontendLovable (No-Code)BackendSupabaseDatabasePostgreSQL (via S
 📅 Built         : 2025
 🧠 Type          : AI-Powered Full-Stack MVP
 
+---
+##screenshot
+![Screenshot](PodChef.png)
+
+---
 💡 What I Learned
 
 Full-stack application development using no-code tools
